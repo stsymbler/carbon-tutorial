@@ -1,3 +1,11 @@
+$feature-flags: (
+  ui-shell: true,
+);
+
+@import './components/TutorialHeader/tutorial-header.scss';
+
+@import 'carbon-components/scss/globals/scss/styles.scss';
+
 /* Remove overrides once Carbon bugs are fixed upstream. */
 
 /*
