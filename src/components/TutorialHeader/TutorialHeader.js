@@ -37,10 +37,3 @@ const TutorialHeader = () => (
 );
 
 export default TutorialHeader;
-
-// <HeaderName href="/" prefix="IBM">
-//   Carbon Tutorial
-// </HeaderName>
-// <HeaderNavigation aria-label="Carbon Tutorial">
-//   <HeaderMenuItem href="/repos">Repositories</HeaderMenuItem>
-// </HeaderNavigation>
